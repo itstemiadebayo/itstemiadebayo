@@ -14,6 +14,5 @@
 
 - ⚡ Fun fact **I am excellent at science communication**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+
